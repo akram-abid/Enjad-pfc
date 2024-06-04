@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">depannage</string>
+    <string name="email_error">email error</string>
+    <string name="empty_password_error">you didn\'t understand</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoiYWtyYW1hYmlkIiwiYSI6ImNsdjZoejgyMDBiYmoyam9iNGF4Y3Jpc2cifQ.BJZED-A3DCHjEBysV1S9Vg</string>
+</resources>

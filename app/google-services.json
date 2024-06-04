@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "975806427881",
+    "firebase_url": "https://depannage-fbe3f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "depannage-fbe3f",
+    "storage_bucket": "depannage-fbe3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975806427881:android:f1ef0e0c75b06c77e97678",
+        "android_client_info": {
+          "package_name": "com.example.depannage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975806427881-g4s61i96s5iv3ub65gb0r36r0elejtlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ceOPwy3HXkpiiKSV1lN1G-UhrlESFgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975806427881-g4s61i96s5iv3ub65gb0r36r0elejtlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
